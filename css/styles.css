@@ -2472,29 +2472,29 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #1972d8;
-  border-color: #1972d8;
+  background-color: #90ca00;
+  border-color: #90ca00;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #1972d8;
+  background-color: #005c00;
   border-color: #1972d8;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #1972d8;
-  border-color: #1972d8;
+  background-color: #005c00;
+  border-color: #005c00;
   box-shadow: 0 0 0 0.2rem #1972d898;
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #1972d8;
-  border-color: #1972d8;
+  background-color: #005c00;
+  border-color: #005c00;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #1972d8;
-  border-color: #1972d8;
+  background-color: #005c00;
+  border-color: #005c00;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem #1972d898;
@@ -9798,11 +9798,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #3180da !important;
+  color: #00D400 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #d6370c !important;
+  color: #00FA00 !important;
 }
 
 .text-secondary {
@@ -10008,7 +10008,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #1972d8;
+  border-color: #00ED00;
 }
 
 hr.light {
@@ -10043,17 +10043,17 @@ hr.light {
   color: #212529;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: #232fd4;
+  color: #00ED00;
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   font-size: 0.9rem;
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #232fd4;
+  color: #00ED00;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #232fd4 !important;
+  color: #00ED00 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
